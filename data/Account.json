@@ -1,0 +1,31 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef1"
+            },
+            "Name": "Lucrezia Noin",
+            "Location__Latitude__s": 39.913818,
+            "Location__Longitude__s": 116.363625
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef2"
+            },
+            "Name": "Quatre Raberba Winner",
+            "Location__Latitude__s": 25.0657,
+            "Location__Longitude__s": 55.17128
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef3"
+            },
+            "Name": "Zechs Merquise",
+            "Location__Latitude__s": 49.611622,
+            "Location__Longitude__s": 6.131935
+        }
+    ]
+}
