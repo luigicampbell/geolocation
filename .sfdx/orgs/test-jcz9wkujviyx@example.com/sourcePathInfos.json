@@ -32,14 +32,14 @@
     [
         "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 288,
             "modifiedTime": 1528133770746,
             "changeTime": 1528133770746,
-            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297"
+            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -47,10 +47,10 @@
         {
             "sourcePath": "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 96,
-            "modifiedTime": 1528133247653,
-            "changeTime": 1528133247653,
-            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
+            "size": 160,
+            "modifiedTime": 1528137630374,
+            "changeTime": 1528137630374,
+            "contentHash": "9c98372a45cf06c7fb95ee4aa450766e3a658e86",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -258,7 +258,7 @@
             "sourcePath": "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/aura/AccountLocator",
             "isDirectory": true,
             "size": 352,
-            "modifiedTime": 1528133247655,
+            "modifiedTime": 1528137630374,
             "changeTime": 1528133247655,
             "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5",
             "isMetadataFile": false,
@@ -283,10 +283,10 @@
         {
             "sourcePath": "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
-            "size": 173,
-            "modifiedTime": 1528133399904,
-            "changeTime": 1528133399904,
-            "contentHash": "3fcf7f8d95b715f58f3fd76fbeb5943a42329879",
+            "size": 189,
+            "modifiedTime": 1528138124126,
+            "changeTime": 1528135230465,
+            "contentHash": "c3d88a0ecc7abeb51956d291c7ade93233606427",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -348,10 +348,10 @@
         {
             "sourcePath": "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
             "isDirectory": false,
-            "size": 65,
-            "modifiedTime": 1528133247653,
-            "changeTime": 1528133247653,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "size": 256,
+            "modifiedTime": 1528137547756,
+            "changeTime": 1528137547756,
+            "contentHash": "9f73369ca66b087616f3bb8205b8e3f57484b270",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -385,92 +385,352 @@
     [
         "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 267,
             "modifiedTime": 1528133770740,
             "changeTime": 1528133770740,
-            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 17723,
             "modifiedTime": 1528133770750,
             "changeTime": 1528133770750,
-            "contentHash": "9e2696b634739877d44fde67c10aa42124d7746b"
+            "contentHash": "9e2696b634739877d44fde67c10aa42124d7746b",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/profiles/Custom: Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/profiles/Custom: Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 5020,
             "modifiedTime": 1528133770753,
             "changeTime": 1528133770753,
-            "contentHash": "f0fb8b8ee91be2f95547e0086971edbd837ac714"
+            "contentHash": "f0fb8b8ee91be2f95547e0086971edbd837ac714",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/profiles/Custom: Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/profiles/Custom: Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4680,
             "modifiedTime": 1528133770755,
             "changeTime": 1528133770755,
-            "contentHash": "4e8ccfd286b282fe150de41bc35253eae5e0fca5"
+            "contentHash": "4e8ccfd286b282fe150de41bc35253eae5e0fca5",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/profiles/Custom: Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/profiles/Custom: Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4684,
             "modifiedTime": 1528133770757,
             "changeTime": 1528133770757,
-            "contentHash": "52f1d0724ab23352d73de7d6da76e63ea96d449b"
+            "contentHash": "52f1d0724ab23352d73de7d6da76e63ea96d449b",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/tabs",
         {
-            "state": "u",
             "sourcePath": "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/tabs",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1528133770740,
             "changeTime": 1528133770740,
-            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/profiles",
         {
-            "state": "u",
             "sourcePath": "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 192,
             "modifiedTime": 1528133770757,
             "changeTime": 1528133770757,
-            "contentHash": "15d8b68bef3142dc9da80c94e822e4e0e39b6ecb"
+            "contentHash": "15d8b68bef3142dc9da80c94e822e4e0e39b6ecb",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/aura/AccountList",
+        {
+            "sourcePath": "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/aura/AccountList",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1528134470824,
+            "changeTime": 1528137623104,
+            "contentHash": "8560224a9375f41dec7cfcf002b9144a4be27670",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/aura/AccountListItem",
+        {
+            "sourcePath": "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/aura/AccountListItem",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1528134191268,
+            "changeTime": 1528137630374,
+            "contentHash": "b91ae3f4051e8ad6d6e106dc2074d49668f7c2cf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/aura/AccountList/AccountList.auradoc",
+        {
+            "sourcePath": "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/aura/AccountList/AccountList.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1528134470824,
+            "changeTime": 1528134470824,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 374,
+            "modifiedTime": 1528138035429,
+            "changeTime": 1528138035429,
+            "contentHash": "24fb30fe2d54e2136c8fa2398a25a1a5b106938f"
+        }
+    ],
+    [
+        "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 243,
+            "modifiedTime": 1528134470822,
+            "changeTime": 1528134470822,
+            "contentHash": "097217b3ba1af8c1528aade539f9c16360a85db1",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
+        {
+            "sourcePath": "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
+            "isDirectory": false,
+            "size": 109,
+            "modifiedTime": 1528135115756,
+            "changeTime": 1528135115756,
+            "contentHash": "6f905d445c43184d85ecfb6f3b26fb1f89ee1460",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/aura/AccountList/AccountList.design",
+        {
+            "sourcePath": "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/aura/AccountList/AccountList.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1528134470824,
+            "changeTime": 1528134470824,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/aura/AccountList/AccountList.svg",
+        {
+            "sourcePath": "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/aura/AccountList/AccountList.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1528134470823,
+            "changeTime": 1528134470823,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 255,
+            "modifiedTime": 1528138084639,
+            "changeTime": 1528138084639,
+            "contentHash": "852714ef85a9eacf436a155236a97021f5688cef"
+        }
+    ],
+    [
+        "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
+        {
+            "sourcePath": "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1528134470823,
+            "changeTime": 1528134470823,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
+        {
+            "sourcePath": "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1528134470823,
+            "changeTime": 1528134470823,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.auradoc",
+        {
+            "sourcePath": "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1528134191268,
+            "changeTime": 1528134191268,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
+        {
+            "sourcePath": "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
+            "isDirectory": false,
+            "size": 131,
+            "modifiedTime": 1528134310704,
+            "changeTime": 1528134310704,
+            "contentHash": "4cde3a86f6c038e2e4896565f939c71df881f5f8",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 247,
+            "modifiedTime": 1528134191266,
+            "changeTime": 1528134191266,
+            "contentHash": "61b99c0717861f0069c29bfab5593f8b10d81b8f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
+        {
+            "sourcePath": "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
+            "isDirectory": false,
+            "size": 168,
+            "modifiedTime": 1528134419243,
+            "changeTime": 1528134419243,
+            "contentHash": "823df0ee9f6368448a4dff6f6e30f779de05f866",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.design",
+        {
+            "sourcePath": "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1528134191268,
+            "changeTime": 1528134191268,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.svg",
+        {
+            "sourcePath": "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1528134191268,
+            "changeTime": 1528134191268,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
+        {
+            "sourcePath": "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1528134191267,
+            "changeTime": 1528134191267,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
+        {
+            "sourcePath": "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1528134191267,
+            "changeTime": 1528134191267,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
+        {
+            "sourcePath": "/Users/lcampbell/Documents/SFDX_Apps/geolocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1528134191267,
+            "changeTime": 1528134191267,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]
